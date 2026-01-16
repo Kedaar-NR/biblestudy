@@ -1,0 +1,4 @@
+# Development Notes
+
+## Jan 16, 2026
+- Minor code cleanup
