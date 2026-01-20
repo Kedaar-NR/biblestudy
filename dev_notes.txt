@@ -8,3 +8,6 @@
 
 ## Jan 18, 2026
 - Tested app functionality
+
+## Jan 19, 2026
+- Planning next sprint
